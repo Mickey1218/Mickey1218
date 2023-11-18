@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mickey1218
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Developing, Graphic Designing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram: @mickey___1218
